@@ -8,7 +8,6 @@ How I setup a new mac
 ```
 
 ## Install deps
-Install Homebre
 ```sh
 git clone https://github.com/wesleimp/macOS.git
 cd macOS
@@ -23,7 +22,6 @@ cd ~/.dotfiles
 ```
 
 ## Setup SSH
-
 Create a new SSH key or copy the previous one into `~/.ssh`. That should be it.
 
 Also fix perms:
