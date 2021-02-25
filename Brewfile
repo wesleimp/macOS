@@ -45,5 +45,7 @@ cask "notion"
 cask "slack"
 cask "spotify"
 cask "tableplus"
+cask "telegram"
 cask "visual-studio-code"
+cask "whatsapp"
 
